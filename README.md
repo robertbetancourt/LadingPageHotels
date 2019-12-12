@@ -1,1 +1,1 @@
-# LadingPageHotels
+# LandingPageHotels
